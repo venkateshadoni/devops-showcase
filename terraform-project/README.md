@@ -2,7 +2,7 @@
 
 ### **terraform-project/README.md**
 
-```markdown
+
 # Terraform AWS Infrastructure Project
 
 This project demonstrates how to provision a secure and scalable infrastructure on AWS using **Terraform**. It includes the setup of VPC, subnets, EC2 instances, RDS database, security groups, S3 bucket, and a Load Balancer—all defined using Infrastructure as Code (IaC).
