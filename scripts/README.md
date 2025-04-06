@@ -2,7 +2,6 @@
 
 ### **scripts/README.md**
 
-```markdown
 # Automation Scripts (Bash / Python)
 
 This directory contains standalone and reusable automation scripts written in Bash and Python that assist in managing and operating cloud infrastructure, container environments, and DevOps workflows efficiently.
@@ -71,6 +70,4 @@ python3 s3_backup.py
 - Logs stored securely and rotated using cron
 
 ---
-
-```
 
